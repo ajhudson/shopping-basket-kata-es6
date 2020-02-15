@@ -1,0 +1,23 @@
+{
+  "name": "shopping-basket-kata-es6",
+  "version": "1.0.0",
+  "description": "Shopping Basket Kata in ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajhudson/shopping-basket-kata-es6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajhudson/shopping-basket-kata-es6/issues"
+  },
+  "homepage": "https://github.com/ajhudson/shopping-basket-kata-es6#readme",
+  "devDependencies": {
+    "@types/jest": "^25.1.2",
+    "jest": "^25.1.0"
+  }
+}
